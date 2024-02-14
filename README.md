@@ -19,5 +19,5 @@ Follow these steps to get the app up and running on your local machine:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/khihoriya/shopping_cart_app.git
+   git clone https://github.com/khihoriya/shopping_cart.git
    
